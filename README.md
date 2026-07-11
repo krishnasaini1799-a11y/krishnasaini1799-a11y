@@ -27,12 +27,14 @@ Current Mission
 
 Learning
 ▸ React
-▸ System Design
+▸ Ai & Neural Networks
+▸ MongoDB
 ▸ Advanced DSA
 
 Status
 ▸ ONLINE ●
 ```
+<center> My life currently runs on Learn(); Build(); Debug(); Repeat();</center>
 
 <br/>
 
