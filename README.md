@@ -27,14 +27,12 @@ Current Mission
 
 Learning
 ▸ React
-▸ Ai & Neural Networks
-▸ MongoDB
+▸ System Design
 ▸ Advanced DSA
 
 Status
 ▸ ONLINE ●
 ```
-<center> My life currently runs on Learn(); Build(); Debug(); Repeat();</center>
 
 <br/>
 
@@ -42,7 +40,7 @@ Status
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,react,html,css,js,opencv,git,github,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,react,html,css,js,nodejs,express,mysql,opencv,git,github,vscode&theme=dark&perline=10" />
 
 </div>
 
@@ -134,7 +132,7 @@ More on my → **[repositories page](https://github.com/krishnasaini1799-a11y?ta
 <div align="center">
 
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:krishnasaini1799@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
 <a href="https://github.com/krishnasaini1799-a11y"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 
 <br/><br/>
