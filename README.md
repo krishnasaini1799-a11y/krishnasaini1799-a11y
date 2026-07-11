@@ -1,57 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Krishna%20Saini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineer%20%7C%20Builder%20%7C%20AI%20%26%20CV%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a3d1f&height=3&width=1000"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=B.E.+Student+%40+Thapar+Institute%2C+Patiala;Building+with+C%2C+Python+%26+the+Web;Currently+deep+in+Computer+Vision+%2B+AI;Turning+everyday+problems+into+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+ACCESS+GRANTED_;%3E+INITIALIZING+PROFILE...;%3E+WELCOME%2C+KRISHNA+SAINI" alt="Access Granted"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;B.E.+%40+Thapar+Institute+of+Engineering+%26+Technology;Patiala%2C+India" alt="Subtitle"/>
 
-<a href="https://github.com/krishnasaini1799-a11y?tab=repositories"><img src="https://img.shields.io/badge/Repos-5-00C9A7?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/krishnasaini1799-a11y?tab=stars"><img src="https://img.shields.io/badge/Stars-1-2C5364?style=for-the-badge&logo=star&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Patiala%2C%20India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d1f,100:000000&height=3&width=1000"/>
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## `$` terminal --status
 
-```yaml
-education:  Thapar Institute of Engineering & Technology, Patiala
-focus:      Computer Vision · Deep Learning · Full-Stack Web
-building:   Real-time traffic monitoring with YOLOv8 + OpenCV
-learning:   Advanced Neural Networks, System Design
-ask_me:     C, Python, OpenCV pipelines, HTML/CSS/JS
-fun_fact:   I'd rather debug a stubborn model than write boilerplate
+```ansi
+[1;32m╔══════════════════════════════════════════════════╗[0m
+[1;32m║[0m   [1;37mSYSTEM STATUS[0m[1;32m:[0m [1;32mACCESS GRANTED[0m [1;32m✔[0m                [1;32m║[0m
+[1;32m╚══════════════════════════════════════════════════╝[0m
+
+[36mRole[0m
+[1;32m▸[0m Full Stack Engineer
+
+[36mCurrent Mission[0m
+[1;32m▸[0m Building Real-World Products
+
+[36mLearning[0m
+[1;32m▸[0m React
+[1;32m▸[0m System Design
+[1;32m▸[0m Advanced DSA
+
+[36mStatus[0m
+[1;32m▸[0m [1;32mONLINE ●[0m
 ```
 
 <br/>
 
-## 🧰 Tech Stack
+## `$` tech --stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,opencv,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,react,html,css,js,opencv,git,github,vscode&theme=dark&perline=10" />
 
 </div>
 
 <br/>
 
-## 🗂️ Projects
+## `$` ls ./projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🚦 [traffic-project](https://github.com/krishnasaini1799-a11y/traffic-project)**
-Real-time smart traffic monitoring — vehicle detection, speed measurement & flow analysis using YOLOv8, Python and OpenCV.
+### 🚦 [traffic-project](https://github.com/krishnasaini1799-a11y/traffic-project)
+Real-time smart traffic monitoring — vehicle detection, speed measurement & flow analysis.
+<br/>
 `Python` `YOLOv8` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
-**🌾 [KRISHIMITRA_AI](https://github.com/krishnasaini1799-a11y/KRISHIMITRA_AI)**
-An intelligent agriculture assistant that detects crop diseases from leaf images using deep learning and suggests treatment.
+### 🌾 [KRISHIMITRA_AI](https://github.com/krishnasaini1799-a11y/KRISHIMITRA_AI)
+Intelligent agriculture assistant — detects crop diseases from leaf images via deep learning.
+<br/>
 `Python` `Deep Learning`
 
 </td>
@@ -59,15 +70,17 @@ An intelligent agriculture assistant that detects crop diseases from leaf images
 <tr>
 <td width="50%" valign="top">
 
-**🅿️ [PARKING-MANAGEMENT](https://github.com/krishnasaini1799-a11y/PARKING-MANAGEMENT)**
-Automates parking operations — tracks vehicle entry/exit and manages space allocation efficiently.
+### 🅿️ [PARKING-MANAGEMENT](https://github.com/krishnasaini1799-a11y/PARKING-MANAGEMENT)
+Automates parking operations — tracks vehicle entry/exit and space allocation.
+<br/>
 `C`
 
 </td>
 <td width="50%" valign="top">
 
-**🍔 [Byte-Bite](https://github.com/krishnasaini1799-a11y/Byte-Bite)**
-A restaurant website with a glassmorphism UI, styled menu cards, order form and sticky navbar.
+### 🍔 [Byte-Bite](https://github.com/krishnasaini1799-a11y/Byte-Bite)
+Restaurant website with glassmorphism UI, styled menu cards, order form & sticky navbar.
+<br/>
 `HTML` `CSS`
 
 </td>
@@ -75,14 +88,17 @@ A restaurant website with a glassmorphism UI, styled menu cards, order form and 
 <tr>
 <td width="50%" valign="top">
 
-**📚 [BookTok](https://github.com/krishnasaini1799-a11y/BookTok)**
-A platform for book lovers — short-form book discovery and community interaction.
+### 📚 [BookTok](https://github.com/krishnasaini1799-a11y/BookTok)
+Web platform for book lovers — short-form book discovery and community interaction.
+<br/>
 `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-More projects on my <a href="https://github.com/krishnasaini1799-a11y?tab=repositories">repositories page →</a>
+<br/>
+
+More on my → **[repositories page](https://github.com/krishnasaini1799-a11y?tab=repositories)**
 
 </td>
 </tr>
@@ -90,38 +106,40 @@ More projects on my <a href="https://github.com/krishnasaini1799-a11y?tab=reposi
 
 <br/>
 
-## 📈 GitHub Stats
+## `$` fetch --stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnasaini1799-a11y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F1117&title_color=00C9A7&icon_color=00C9A7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasaini1799-a11y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F1117&title_color=00C9A7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnasaini1799-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=00FF41"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasaini1799-a11y&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&border_color=00FF41"/>
 
-<img src="https://streak-stats.demolab.com/?user=krishnasaini1799-a11y&theme=tokyonight&hide_border=true&background=0F1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+<img src="https://streak-stats.demolab.com/?user=krishnasaini1799-a11y&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6e7681"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## `$` render --contribution-graph
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/krishnasaini1799-a11y/krishnasaini1799-a11y/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/krishnasaini1799-a11y/krishnasaini1799-a11y/output/github-contribution-grid-snake.svg" width="100%"/>
 <!--END_SECTION:snake-->
 
 <br/>
 
-## 🔗 Connect
+## `$` connect --socials
 
 <div align="center">
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://github.com/krishnasaini1799-a11y"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishnasaini1799-a11y&label=Profile+Views&color=00C9A7&style=flat"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=000000&color=0a3d1f" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=krishnasaini1799-a11y&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=39FF14"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a3d1f&height=3&width=1000"/>
