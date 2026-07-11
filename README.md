@@ -14,24 +14,24 @@
 
 ## `$` terminal --status
 
-```ansi
-[1;32m╔══════════════════════════════════════════════════╗[0m
-[1;32m║[0m   [1;37mSYSTEM STATUS[0m[1;32m:[0m [1;32mACCESS GRANTED[0m [1;32m✔[0m                [1;32m║[0m
-[1;32m╚══════════════════════════════════════════════════╝[0m
+```txt
+╔══════════════════════════════════════════════════╗
+║        SYSTEM STATUS: ACCESS GRANTED ✔            ║
+╚══════════════════════════════════════════════════╝
 
-[36mRole[0m
-[1;32m▸[0m Full Stack Engineer
+Role
+▸ Full Stack Engineer
 
-[36mCurrent Mission[0m
-[1;32m▸[0m Building Real-World Products
+Current Mission
+▸ Building Real-World Products
 
-[36mLearning[0m
-[1;32m▸[0m React
-[1;32m▸[0m System Design
-[1;32m▸[0m Advanced DSA
+Learning
+▸ React
+▸ System Design
+▸ Advanced DSA
 
-[36mStatus[0m
-[1;32m▸[0m [1;32mONLINE ●[0m
+Status
+▸ ONLINE ●
 ```
 
 <br/>
