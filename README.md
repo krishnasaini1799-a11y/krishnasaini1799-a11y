@@ -34,7 +34,7 @@ Learning
 Status
 ▸ ONLINE ●
 
-⭐ Fun Fact: My life currently runs on Learn(); Build(); Debug(); Repeat();
+⭐  My life currently runs on Learn(); Build(); Debug(); Repeat();
 ```
 
 <br/>
