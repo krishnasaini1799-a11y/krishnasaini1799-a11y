@@ -113,10 +113,10 @@ More on my → **[repositories page](https://github.com/krishnasaini1799-a11y?ta
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnasaini1799-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=00FF41"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasaini1799-a11y&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&border_color=00FF41"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnasaini1799-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=00FF41&cache_seconds=0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasaini1799-a11y&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&border_color=00FF41&cache_seconds=0"/>
 
-<img src="https://streak-stats.demolab.com/?user=krishnasaini1799-a11y&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6e7681"/>
+<img src="https://streak-stats.demolab.com/?user=krishnasaini1799-a11y&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6e7681&r=1"/>
 
 </div>
 
